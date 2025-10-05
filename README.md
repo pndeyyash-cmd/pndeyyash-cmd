@@ -1,5 +1,5 @@
 # Hi there, I'm Yash Vardhan Pandey 👋
-<a href="https://www.linkedin.com/in/yash-pandey-fullstack/">
+<a href="https://www.linkedin.com/in/yash-pandey-fullstack/" target="_blank" rel="noopener noreferrer">
   <img align="left" width="200px" src="https://media.licdn.com/dms/image/v2/D5635AQGbJjQM3oGrLw/profile-framedphoto-shrink_400_400/B56ZmNuRJ6J0Ac-/0/1759019340833?e=1760295600&v=beta&t=cSkwPzUNG1cRrI3LeYBVIWkc_9bsfWZOgslZpkwLDKA">
 </a>
 I'm a passionate **Full-Stack Developer** from India, specializing in the MERN stack. I love building robust, user-friendly web applications that solve real-world problems. 
@@ -32,20 +32,31 @@ Here are some of the projects I'm proud of. Each one has a detailed README and a
 
 | Project Name | Description | Links |
 |---|---|---|
-| **Neha's Restaurant** | A full-stack restaurant management system with customer reservations and a secure admin panel. | [View Demo](https://nehas-restaurant-frontend.vercel.app)  |
+| **Neha's Restaurant** | A full-stack restaurant management system with customer reservations and a secure admin panel. | <a href="https://nehas-restaurant-frontend.vercel.app" target="_blank" rel="noopener noreferrer">View Demo</a> • <a href="https://github.com/pndeyyash-cmd/nehas-restaurant-frontend" target="_blank" rel="noopener noreferrer">View Code</a> |
 | **Project Management Tool** | A Trello/Asana clone with real-time updates using WebSockets for collaborative task management. | (Coming Soon) |
 | **Real-Time Communication App**| A video conferencing app built with WebRTC for multi-user calls and screen sharing. | (Coming Soon) |
 
+---
+
 ### 📺 Latest YouTube Video
 
-Check out my latest project walkthrough!
+My detailed project walkthroughs are coming soon! Once my first video is live, it will be displayed here. You can subscribe to my channel to get notified.
 
-<a href="[YOUR_YOUTUBE_VIDEO_LINK]">
-  <img width="400px" src="https://img.youtube.com/vi/[VIDEO_ID_HERE]/0.jpg">
-</a>
+**My Channel:** [Your YouTube Channel URL] ---
 
 ### 📫 Connect with Me
 
 You can find me on:
-- **LinkedIn:** [http://www.linkedin.com/in/yash-pandey-fullstack]
-- **YouTube:** [Your YouTube Channel URL]
+- **LinkedIn:** <a href="http://www.linkedin.com/in/yash-pandey-fullstack" target="_blank" rel="noopener noreferrer">Yash Vardhan Pandey</a>
+- **YouTube:** [Your YouTube Channel URL] ```
+---
+
+### Key Changes:
+
+1.  **`target="_blank" rel="noopener noreferrer"`:** This has been added to the `<a>` tags for "View Demo," "View Code," and your LinkedIn link in the "Connect with Me" section.
+    * `target="_blank"`: Opens the link in a new browser tab.
+    * `rel="noopener noreferrer"`: This is a security best practice when using `target="_blank"`. It prevents the new tab from potentially manipulating the original tab.
+2.  **"View Code" Link Added:** I've added a placeholder "View Code" link for your restaurant project, assuming your frontend repository is at `https://github.com/pndeyyash-cmd/nehas-restaurant-frontend`. If your backend repo is separate, you might want to add another "View Code" link for that as well (e.g., `View Code (Frontend)` and `View Code (Backend)`).
+3.  **YouTube Section:** I've kept the YouTube section as a "Coming Soon" message with a placeholder for your channel URL, as per your previous instruction.
+
+Now, replace the entire content of your GitHub profile `README.md` with this updated code. After committing, all your project links will open in new tabs!
