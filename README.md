@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/yash-pandey-fullstack/" target="_blank" rel="noopener noreferrer">
   <img align="left" width="200px" src="https://media.licdn.com/dms/image/v2/D5635AQFUdDigK5t8_A/profile-framedphoto-shrink_400_400/B56Zm2hXbrJsAc-/0/1759703824725?e=1760310000&v=beta&t=Z1xkIr6KA_LnlfHKRzQMFhuVpnnT8suuw3gGdgjrELo">
 </a>
-I'm a passionate **Full-Stack Developer** from India, specializing in the MERN stack. I love building robust, user-friendly web applications that solve real-world problems. 
+I'm a passionate Full-Stack Developer from India, specializing in the MERN stack. I love building robust, user-friendly web applications that solve real-world problems. 
 
 This GitHub profile is my digital portfolio, showcasing my projects and my journey in the world of code.
 
@@ -38,16 +38,10 @@ Here are some of the projects I'm proud of. Each one has a detailed README and a
 
 ---
 
-### 📺 Latest YouTube Video
-
-My detailed project walkthroughs are coming soon! Once my first video is live, it will be displayed here. You can subscribe to my channel to get notified.
-
-**My Channel:** [Your YouTube Channel URL] ---
-
 ### 📫 Connect with Me
 
 You can find me on:
 - **LinkedIn:** <a href="http://www.linkedin.com/in/yash-pandey-fullstack" target="_blank" rel="noopener noreferrer">Yash Vardhan Pandey</a>
-- **YouTube:** [Your YouTube Channel URL] ```
+- **YouTube:** [https://www.youtube.com/channel/UCS8CRyAxM0zG6hRsVUNhcEw] ```
 ---
 
