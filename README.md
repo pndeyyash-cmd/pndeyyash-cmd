@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there, I'm Yash Vardhan Pandey 👋
 
-<!--
-**pndeyyash-cmd/pndeyyash-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/yash-pandey-fullstack/">
+  <img align="left" width="200px" src="[<img width="448" height="1024" alt="linkedin" src="https://github.com/user-attachments/assets/ac5e6931-6615-4c0d-89f2-f05803d85884" />
+]">
+</a>
 
-Here are some ideas to get you started:
+I'm a passionate **Full-Stack Developer** from India, specializing in the MERN stack. I love building robust, user-friendly web applications that solve real-world problems. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub profile is my digital portfolio, showcasing my projects and my journey in the world of code.
+
+<br/>
+
+---
+
+### 🛠️ My Tech Stack
+
+Here are some of the technologies I work with:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📂 My Projects
+
+Here are some of the projects I'm proud of. Each one has a detailed README and a live demo!
+
+| Project Name | Description | Live Demo |
+|--------------|-------------|-----------|
+| **Neha's Restaurant** | A full-stack restaurant management system with customer reservations and a secure admin panel. | [View Demo]([https://nehas-restaurant-frontend.vercel.app]) |
+| **Project Management Tool** | (Coming Soon) A Trello/Asana clone with real-time updates using WebSockets. | (Coming Soon) |
+| **Real-Time Communication App**| (Coming Soon) A video conferencing app built with WebRTC. | (Coming Soon) |
+
+---
+
+### 📺 Latest YouTube Video
+
+Check out my latest project walkthrough!
+
+<a href="[YOUR_YOUTUBE_VIDEO_LINK]">
+  <img width="400px" src="https://img.youtube.com/vi/[VIDEO_ID_HERE]/0.jpg">
+</a>
+
+
+### 📫 Connect with Me
+
+You can find me on:
+- **LinkedIn:** [http://www.linkedin.com/in/yash-pandey-fullstack]
+- **YouTube:** [Your YouTube Channel URL]
