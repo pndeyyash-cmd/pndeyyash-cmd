@@ -30,13 +30,11 @@ Here are some of the technologies I work with:
 
 Here are some of the projects I'm proud of. Each one has a detailed README and a live demo!
 
-| Project Name | Description | Live Demo |
-|--------------|-------------|-----------|
-| **Neha's Restaurant** | A full-stack restaurant management system with customer reservations and a secure admin panel. | [View Demo]([https://nehas-restaurant-frontend.vercel.app]) |
-| **Project Management Tool** | (Coming Soon) A Trello/Asana clone with real-time updates using WebSockets. | (Coming Soon) |
-| **Real-Time Communication App**| (Coming Soon) A video conferencing app built with WebRTC. | (Coming Soon) |
-
----
+| Project Name | Description | Links |
+|---|---|---|
+| **Neha's Restaurant** | A full-stack restaurant management system with customer reservations and a secure admin panel. | [View Demo](https://nehas-restaurant-frontend.vercel.app)  |
+| **Project Management Tool** | A Trello/Asana clone with real-time updates using WebSockets for collaborative task management. | (Coming Soon) |
+| **Real-Time Communication App**| A video conferencing app built with WebRTC for multi-user calls and screen sharing. | (Coming Soon) |
 
 ### 📺 Latest YouTube Video
 
