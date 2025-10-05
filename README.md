@@ -1,8 +1,6 @@
 # Hi there, I'm Yash Vardhan Pandey 👋
-
 <a href="https://www.linkedin.com/in/yash-pandey-fullstack/">
-  <img align="left" width="200px" src="[<img width="448" height="1024" alt="linkedin" src="https://github.com/user-attachments/assets/ac5e6931-6615-4c0d-89f2-f05803d85884" />
-]">
+  <img align="left" width="200px" src="["https://media.licdn.com/dms/image/v2/D5635AQGbJjQM3oGrLw/profile-framedphoto-shrink_400_400/B56ZmNuRJ6J0Ac-/0/1759019340833?e=1760295600&v=beta&t=cSkwPzUNG1cRrI3LeYBVIWkc_9bsfWZOgslZpkwLDKA"]">
 </a>
 
 I'm a passionate **Full-Stack Developer** from India, specializing in the MERN stack. I love building robust, user-friendly web applications that solve real-world problems. 
@@ -48,7 +46,6 @@ Check out my latest project walkthrough!
 <a href="[YOUR_YOUTUBE_VIDEO_LINK]">
   <img width="400px" src="https://img.youtube.com/vi/[VIDEO_ID_HERE]/0.jpg">
 </a>
-
 
 ### 📫 Connect with Me
 
