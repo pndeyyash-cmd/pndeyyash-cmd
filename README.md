@@ -1,8 +1,7 @@
 # Hi there, I'm Yash Vardhan Pandey 👋
 <a href="https://www.linkedin.com/in/yash-pandey-fullstack/">
-  <img align="left" width="200px" src="["https://media.licdn.com/dms/image/v2/D5635AQGbJjQM3oGrLw/profile-framedphoto-shrink_400_400/B56ZmNuRJ6J0Ac-/0/1759019340833?e=1760295600&v=beta&t=cSkwPzUNG1cRrI3LeYBVIWkc_9bsfWZOgslZpkwLDKA"]">
+  <img align="left" width="200px" src="https://media.licdn.com/dms/image/v2/D5635AQGbJjQM3oGrLw/profile-framedphoto-shrink_400_400/B56ZmNuRJ6J0Ac-/0/1759019340833?e=1760295600&v=beta&t=cSkwPzUNG1cRrI3LeYBVIWkc_9bsfWZOgslZpkwLDKA">
 </a>
-
 I'm a passionate **Full-Stack Developer** from India, specializing in the MERN stack. I love building robust, user-friendly web applications that solve real-world problems. 
 
 This GitHub profile is my digital portfolio, showcasing my projects and my journey in the world of code.
