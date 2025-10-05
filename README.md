@@ -42,6 +42,6 @@ Here are some of the projects I'm proud of. Each one has a detailed README and a
 
 You can find me on:
 - **LinkedIn:** <a href="http://www.linkedin.com/in/yash-pandey-fullstack" target="_blank" rel="noopener noreferrer">Yash Vardhan Pandey</a>
-- **YouTube:** [https://www.youtube.com/channel/UCS8CRyAxM0zG6hRsVUNhcEw] ```
+- **YouTube:** [https://www.youtube.com/channel/UCS8CRyAxM0zG6hRsVUNhcEw] 
 ---
 
