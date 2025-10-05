@@ -51,12 +51,3 @@ You can find me on:
 - **YouTube:** [Your YouTube Channel URL] ```
 ---
 
-### Key Changes:
-
-1.  **`target="_blank" rel="noopener noreferrer"`:** This has been added to the `<a>` tags for "View Demo," "View Code," and your LinkedIn link in the "Connect with Me" section.
-    * `target="_blank"`: Opens the link in a new browser tab.
-    * `rel="noopener noreferrer"`: This is a security best practice when using `target="_blank"`. It prevents the new tab from potentially manipulating the original tab.
-2.  **"View Code" Link Added:** I've added a placeholder "View Code" link for your restaurant project, assuming your frontend repository is at `https://github.com/pndeyyash-cmd/nehas-restaurant-frontend`. If your backend repo is separate, you might want to add another "View Code" link for that as well (e.g., `View Code (Frontend)` and `View Code (Backend)`).
-3.  **YouTube Section:** I've kept the YouTube section as a "Coming Soon" message with a placeholder for your channel URL, as per your previous instruction.
-
-Now, replace the entire content of your GitHub profile `README.md` with this updated code. After committing, all your project links will open in new tabs!
