@@ -13,7 +13,7 @@ This GitHub profile is my digital portfolio, showcasing my projects and my journ
 ## 🚀 Featured Project: Neighborly
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pndeyyash-cmd/neighborly-app/main/path/to/your/screenshot.png" alt="Neighborly App Screenshot" width="800"/>
+  <img src="https://github.com/pndeyyash-cmd/neighborly-app/blob/main/Screenshot%202025-10-12%20100714.png" alt="Neighborly App Screenshot" width="800"/>
 </p>
 
 A full-stack, real-time web application designed to reconnect local communities by creating a platform for neighbors to ask for and offer help.
