@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/yash-pandey-fullstack/" target="_blank" rel="noopener noreferrer">
   <img align="left" width="200px" src="https://media.licdn.com/dms/image/v2/D5635AQFUdDigK5t8_A/profile-framedphoto-shrink_400_400/B56Zm2hXbrJsAc-/0/1759703824725?e=1760310000&v=beta&t=Z1xkIr6KA_LnlfHKRzQMFhuVpnnT8suuw3gGdgjrELo">
 </a>
-I'm a passionate Full-Stack Developer from India, specializing in the MERN stack. I love building robust, user-friendly web applications that solve real-world problems. 
+I'm a passionate Full-Stack Developer... I love building robust, user-friendly web applications that solve real-world problems. I actively participate in coding competitions like Codestorm 25 to sharpen my problem-solving skills.. 
 
 This GitHub profile is my digital portfolio, showcasing my projects and my journey in the world of code.
 
