@@ -1,4 +1,7 @@
+![Yash Vardhan Pandey](image.png)
+
 # Hi there, I'm Yash Vardhan Pandey 👋
+
 <a href="https://www.linkedin.com/in/yash-pandey-fullstack/" target="_blank" rel="noopener noreferrer">
   <img align="left" width="200px" src="./profile.png" alt="Yash Vardhan Pandey">
 </a>
