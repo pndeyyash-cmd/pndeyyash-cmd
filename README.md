@@ -1,6 +1,6 @@
 # Hi there, I'm Yash Vardhan Pandey 👋
 <a href="https://www.linkedin.com/in/yash-pandey-fullstack/" target="_blank" rel="noopener noreferrer">
-  <img align="left" width="200px" src="./Yash%20Vardhan%20Pandey" alt="Yash Vardhan Pandey">
+  <img align="left" width="200px" src="./profile.jpg" alt="Yash Vardhan Pandey">
 </a>
 I'm a passionate Full-Stack Developer... I love building robust, user-friendly web applications that solve real-world problems. I actively participate in coding competitions like Codestorm 25 to sharpen my problem-solving skills.
 
