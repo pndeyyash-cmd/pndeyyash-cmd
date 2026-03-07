@@ -15,9 +15,11 @@ This GitHub profile is my digital portfolio, showcasing my projects and my journ
 Here are some of the technologies I work with:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
@@ -34,6 +36,7 @@ Here are some of the projects I'm proud of. Each one has a detailed README and a
 
 | Project Name | Description | Links |
 |---|---|---|
+| **SentinelFace** | A high-security biometric attendance terminal featuring EAR liveness detection, Haversine GPS geofencing, and a Python/Flask reverse-match anti-fraud backend. | <a href="https://face-attendance-frontend-weld.vercel.app" target="_blank" rel="noopener noreferrer">View Demo</a> • <a href="https://github.com/pndeyyash-cmd/face-attendance-frontend" target="_blank" rel="noopener noreferrer">Frontend Code</a> • <a href="https://github.com/pndeyyash-cmd/face-attendance-backend" target="_blank" rel="noopener noreferrer">Backend Code</a> |
 | **Vardhan's Wear** | A full-stack e-commerce PWA with secure JWT auth, dynamic cart, Razorpay payments, and a protected admin dashboard. | <a href="https://vardhan-wears.vercel.app" target="_blank" rel="noopener noreferrer">View Demo</a> • <a href="https://github.com/pndeyyash-cmd/Vardhan-Wears-frontend" target="_blank" rel="noopener noreferrer">Frontend Code</a> • <a href="https://github.com/pndeyyash-cmd/vardhan-wears-backend" target="_blank" rel="noopener noreferrer">Backend Code</a> |
 | **Neighborly** | A full-stack, real-time app for hyperlocal community help with user karma and integrated chat. | <a href="https://neighborly-app-one.vercel.app/" target="_blank" rel="noopener noreferrer">View Demo</a> • <a href="https://github.com/pndeyyash-cmd/neighborly-app" target="_blank" rel="noopener noreferrer">View Code</a> |
 | **Neha's Restaurant** | A full-stack restaurant management system with customer reservations and a secure admin panel. | <a href="https://nehas-restaurant-frontend.vercel.app" target="_blank" rel="noopener noreferrer">View Demo</a> • <a href="https://github.com/pndeyyash-cmd/nehas-restaurant-frontend" target="_blank" rel="noopener noreferrer">View Code</a> |
@@ -43,7 +46,8 @@ Here are some of the projects I'm proud of. Each one has a detailed README and a
 ### 📫 Connect with Me
 
 You can find me on:
-- **LinkedIn:** <a href="http://www.linkedin.com/in/yash-pandey-fullstack" target="_blank" rel="noopener noreferrer">Yash Vardhan Pandey</a>
-- **YouTube:** [https://www.youtube.com/channel/UCS8CRyAxM0zG6hRsVUNhcEw]
-- **my_portfolio**[https://pndeyyash-cmd.github.io/my-portfolio]
+- **LinkedIn:** <a href="https://www.linkedin.com/in/yash-pandey-fullstack/" target="_blank" rel="noopener noreferrer">Yash Vardhan Pandey</a>
+- **YouTube:** <a href="https://www.youtube.com/channel/UCS8CRyAxM0zG6hRsVUNhcEw" target="_blank" rel="noopener noreferrer">My Channel</a>
+- **Portfolio:** <a href="https://pndeyyash-cmd.github.io/my-portfolio" target="_blank" rel="noopener noreferrer">Visit My Digital Portfolio</a>
+
 ---
