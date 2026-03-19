@@ -1,53 +1,58 @@
-# Hi there, I'm Yash Vardhan Pandey 👋
+# Hi there, I'm Yash Vardhan Pandey 👋 
 <a href="https://www.linkedin.com/in/yash-pandey-fullstack/" target="_blank" rel="noopener noreferrer">
-  <img align="left" width="200px" src="./profile.jpg" alt="Yash Vardhan Pandey">
+  <img align="left" width="200px" src="./profile.jpg" alt="Yash Vardhan Pandey" style="border-radius: 20px; border: 2px solid #d4a574;">
 </a>
-I'm a passionate Full-Stack Developer... I love building robust, user-friendly web applications that solve real-world problems. I actively participate in coding competitions like Codestorm 25 to sharpen my problem-solving skills.
 
-This GitHub profile is my digital portfolio, showcasing my projects and my journey in the world of code.
+I'm a **Full-Stack Developer & Tech Entrepreneur**. I specialize in engineering high-performance digital ecosystems that solve real-world business problems. 
+
+Currently, I am scaling **VardhanFlow**, my first SaaS venture focused on digital orchestration for the hospitality industry.
 
 <br clear="left"/>
 
 ---
 
+## 🚀 My 1st Business: VardhanFlow
+**VardhanFlow** is an enterprise-grade orchestration platform designed to bridge the gap between local businesses and digital efficiency. 
+
+* **Flagship Product:** Smart QR Menu SaaS for high-end hospitality.
+* **Tech Stack:** Next.js, Tailwind CSS, Vercel Orchestration.
+* **Business Model:** Milestone-based (60/40) professional deployment.
+* **Status:** Operational & Live.
+
+🔗 **Official Domain:** [www.vardhanflow.com](http://www.vardhanflow.com) (Coming Soon)
+🔗 **Live Engineering Preview:** [VardhanFlow Live](https://vardhan-flow-website.vercel.app/)
+
+---
+
 ### 🛠️ My Tech Stack
 
-Here are some of the technologies I work with:
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📂 My Projects
-
-Here are some of the projects I'm proud of. Each one has a detailed README and a live demo!
+### 📂 Engineering Projects
 
 | Project Name | Description | Links |
 |---|---|---|
-| **SentinelFace** | A high-security biometric attendance terminal featuring EAR liveness detection, Haversine GPS geofencing, and a Python/Flask reverse-match anti-fraud backend. | <a href="https://face-attendance-frontend-weld.vercel.app" target="_blank" rel="noopener noreferrer">View Demo</a> • <a href="https://github.com/pndeyyash-cmd/face-attendance-frontend" target="_blank" rel="noopener noreferrer">Frontend Code</a> • <a href="https://github.com/pndeyyash-cmd/face-attendance-backend" target="_blank" rel="noopener noreferrer">Backend Code</a> |
-| **Vardhan's Wear** | A full-stack e-commerce PWA with secure JWT auth, dynamic cart, Razorpay payments, and a protected admin dashboard. | <a href="https://vardhan-wears.vercel.app" target="_blank" rel="noopener noreferrer">View Demo</a> • <a href="https://github.com/pndeyyash-cmd/Vardhan-Wears-frontend" target="_blank" rel="noopener noreferrer">Frontend Code</a> • <a href="https://github.com/pndeyyash-cmd/vardhan-wears-backend" target="_blank" rel="noopener noreferrer">Backend Code</a> |
-| **Neighborly** | A full-stack, real-time app for hyperlocal community help with user karma and integrated chat. | <a href="https://neighborly-app-one.vercel.app/" target="_blank" rel="noopener noreferrer">View Demo</a> • <a href="https://github.com/pndeyyash-cmd/neighborly-app" target="_blank" rel="noopener noreferrer">View Code</a> |
-| **Neha's Restaurant** | A full-stack restaurant management system with customer reservations and a secure admin panel. | <a href="https://nehas-restaurant-frontend.vercel.app" target="_blank" rel="noopener noreferrer">View Demo</a> • <a href="https://github.com/pndeyyash-cmd/nehas-restaurant-frontend" target="_blank" rel="noopener noreferrer">View Code</a> |
+| **SentinelFace** | Biometric attendance terminal with EAR liveness detection & GPS geofencing. | <a href="https://face-attendance-frontend-weld.vercel.app">Demo</a> |
+| **Vardhan's Wear** | Full-stack MERN e-commerce PWA with Razorpay integration. | <a href="https://vardhan-wears.vercel.app">Demo</a> |
+| **Neighborly** | Real-time hyperlocal community help app with integrated chat. | <a href="https://neighborly-app-one.vercel.app/">Demo</a> |
+| **Neha's Restaurant** | Full-stack restaurant management system with secure reservations. | <a href="https://nehas-restaurant-frontend.vercel.app">Demo</a> |
 
 ---
 
 ### 📫 Connect with Me
 
-You can find me on:
-- **LinkedIn:** <a href="https://www.linkedin.com/in/yash-pandey-fullstack/" target="_blank" rel="noopener noreferrer">Yash Vardhan Pandey</a>
-- **YouTube:** <a href="https://www.youtube.com/channel/UCS8CRyAxM0zG6hRsVUNhcEw" target="_blank" rel="noopener noreferrer">My Channel</a>
-- **Portfolio:** <a href="https://pndeyyash-cmd.github.io/my-portfolio" target="_blank" rel="noopener noreferrer">Visit My Digital Portfolio</a>
+- **Business Inquiries:** [www.vardhanflow.com](http://www.vardhanflow.com)
+- **LinkedIn:** [Yash Vardhan Pandey](https://www.linkedin.com/in/yash-pandey-fullstack/)
+- **YouTube:** [Engineering Devlogs](https://www.youtube.com/channel/UCS8CRyAxM0zG6hRsVUNhcEw)
+- **Portfolio:** [Visit My Digital Portfolio](https://pndeyyash-cmd.github.io/my-portfolio)
 
 ---
