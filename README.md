@@ -19,7 +19,7 @@ Currently, I am scaling **VardhanFlow**, my first SaaS venture focused on digita
 * **Business Model:** Milestone-based (60/40) professional deployment.
 * **Status:** Operational & Live.
 
-🔗 **Official Domain:** [www.vardhanflow.com](http://www.vardhanflow.com) (Coming Soon)
+🔗 **Official Domain:** [www.vardhanflow.com](http://www.vardhanflow.com) 
 🔗 **Live Engineering Preview:** [VardhanFlow Live](https://vardhan-flow-website.vercel.app/)
 
 ---
